@@ -1,5 +1,6 @@
 package com.isortegah
 
+import com.isortegah.app.App
 import org.junit.Assert._
 import org.junit._
 
